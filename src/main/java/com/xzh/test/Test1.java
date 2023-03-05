@@ -11,7 +11,6 @@ public class Test1 {
         System.out.println("World!");
         List<Object> list = Arrays.asList();
         System.out.println("list = " + list);
-        S1 s1 = new S1();
 
     }
 
